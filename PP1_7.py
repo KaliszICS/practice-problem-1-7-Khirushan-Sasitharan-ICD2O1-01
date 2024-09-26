@@ -12,7 +12,7 @@ def q2():
 
 
 def q3():
-  sksk = input ("Input the letter a:")
+  sksk = input ("Input the letter a: ")
   bool2 = (sksk == "a")
   print (bool2)
 
